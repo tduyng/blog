@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="/tag/docker/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-12-05T11:48:12+01:00</updated>
-  <id>/tag/docker/feed.xml</id>
+  <generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator>
+  <link href="/blog/tag/docker/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2024-02-22T16:39:27+01:00</updated>
+  <id>/blog/tag/docker/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Why use Docker compose</title>
-      <link href="/why-use-dockercompose" rel="alternate" type="text/html" title="Why use Docker compose" />
+      <link href="/blog/why-use-dockercompose" rel="alternate" type="text/html" title="Why use Docker compose" />
       <published>2020-11-24T01:00:00+01:00</published>
       <updated>2020-11-24T01:00:00+01:00</updated>
-      <id>/why-use-dockercompose</id>
-      <content type="html" xml:base="/why-use-dockercompose">&lt;p&gt;Demo using Docker compose with Nodejs&lt;/p&gt;
+      <id>/blog/why-use-dockercompose</id>
+      <content type="html" xml:base="/blog/why-use-dockercompose">&lt;p&gt;Demo using Docker compose with Nodejs&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -143,7 +143,7 @@
 &lt;span class=&quot;s&quot;&gt;CMD [&quot;node&quot;, &quot;index.js&quot;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#Command line to run project&lt;/span&gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;You can also check an article on my blog for more information of Dockerfile: &lt;a href=&quot;https://blog.adev42.com/create-simple-project-nodejs-with-docker&quot;&gt;Create simple project Nodejs with Docker&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;You can also check an article on my blog for more information of Dockerfile: &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Create simple project Nodejs with Docker&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Create &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.dockerignore&lt;/code&gt;&lt;/p&gt;
@@ -300,7 +300,7 @@ It is a config file for docker-compose. It allows us to define the services (con
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/try-docker/tree/master/01.dive-into-docker/simple-with-redis&quot;&gt;Code demo GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.adev42.com/create-simple-project-nodejs-with-docker&quot;&gt;Previous post: create simple Nodejs app with Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Previous post: create simple Nodejs app with Docker&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/&quot;&gt;Docker official&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/compose/&quot;&gt;Learn about &lt;strong&gt;Docker compose&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://jstobigdata.com/docker-compose-cheatsheet/&quot;&gt;Docker compose cheatsheet&lt;/a&gt;&lt;/li&gt;
@@ -334,11 +334,11 @@ It is a config file for docker-compose. It allows us to define the services (con
   
     <entry>
       <title type="html">Create simple web app Nodejs with Docker</title>
-      <link href="/create-simple-project-nodejs-with-docker" rel="alternate" type="text/html" title="Create simple web app Nodejs with Docker" />
+      <link href="/blog/create-simple-project-nodejs-with-docker" rel="alternate" type="text/html" title="Create simple web app Nodejs with Docker" />
       <published>2020-11-22T01:00:00+01:00</published>
       <updated>2020-11-22T01:00:00+01:00</updated>
-      <id>/create-simple-project-nodejs-with-docker</id>
-      <content type="html" xml:base="/create-simple-project-nodejs-with-docker">&lt;p&gt;How to get a Node.js application into a Docker container?&lt;/p&gt;
+      <id>/blog/create-simple-project-nodejs-with-docker</id>
+      <content type="html" xml:base="/blog/create-simple-project-nodejs-with-docker">&lt;p&gt;How to get a Node.js application into a Docker container?&lt;/p&gt;
 
 &lt;hr /&gt;
 

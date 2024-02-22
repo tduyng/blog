@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator>
-  <link href="/tag/docker/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2024-02-22T16:31:43+01:00</updated>
-  <id>/tag/docker/feed.xml</id>
+  <link href="/blog/tag/docker/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2024-02-22T16:39:27+01:00</updated>
+  <id>/blog/tag/docker/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Why use Docker compose</title>
-      <link href="/why-use-dockercompose" rel="alternate" type="text/html" title="Why use Docker compose" />
+      <link href="/blog/why-use-dockercompose" rel="alternate" type="text/html" title="Why use Docker compose" />
       <published>2020-11-24T01:00:00+01:00</published>
       <updated>2020-11-24T01:00:00+01:00</updated>
-      <id>/why-use-dockercompose</id>
-      <content type="html" xml:base="/why-use-dockercompose">&lt;p&gt;Demo using Docker compose with Nodejs&lt;/p&gt;
+      <id>/blog/why-use-dockercompose</id>
+      <content type="html" xml:base="/blog/why-use-dockercompose">&lt;p&gt;Demo using Docker compose with Nodejs&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -334,11 +334,11 @@ It is a config file for docker-compose. It allows us to define the services (con
   
     <entry>
       <title type="html">Create simple web app Nodejs with Docker</title>
-      <link href="/create-simple-project-nodejs-with-docker" rel="alternate" type="text/html" title="Create simple web app Nodejs with Docker" />
+      <link href="/blog/create-simple-project-nodejs-with-docker" rel="alternate" type="text/html" title="Create simple web app Nodejs with Docker" />
       <published>2020-11-22T01:00:00+01:00</published>
       <updated>2020-11-22T01:00:00+01:00</updated>
-      <id>/create-simple-project-nodejs-with-docker</id>
-      <content type="html" xml:base="/create-simple-project-nodejs-with-docker">&lt;p&gt;How to get a Node.js application into a Docker container?&lt;/p&gt;
+      <id>/blog/create-simple-project-nodejs-with-docker</id>
+      <content type="html" xml:base="/blog/create-simple-project-nodejs-with-docker">&lt;p&gt;How to get a Node.js application into a Docker container?&lt;/p&gt;
 
 &lt;hr /&gt;
 

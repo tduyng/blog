@@ -17,9 +17,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- Styles'n'Scripts -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
-  <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
-  <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
-  <link rel="stylesheet" type="text/css" href="/assets/built/syntax.css" />
+  <link rel="stylesheet" type="text/css" href="/blog/assets/built/screen.css" />
+  <link rel="stylesheet" type="text/css" href="/blog/assets/built/screen.edited.css" />
+  <link rel="stylesheet" type="text/css" href="/blog/assets/built/syntax.css" />
 
 
   <style>
@@ -32,9 +32,9 @@
   <!-- This tag outputs SEO meta+structured data and other important settings -->
   <meta name="description"
   content="Learning is an endless journey" />
-<link rel="shortcut icon" href="https://tienduy-nguyen.github.io/blog//assets/images/favicon.png" type="image/png" />
+<link rel="shortcut icon" href="https://tienduy-nguyen.github.io/blog//blog/assets/images/favicon.png" type="image/png" />
 <link rel="canonical"
-  href="/setup-webpack-with-typescript" />
+  href="/blog/setup-webpack-with-typescript" />
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
 
@@ -46,9 +46,9 @@
 <meta property="og:description"
   content="How to setup a webpack project with TypeScript? We continue from the previous article basic setup webpack. In this article, we will discover how to setup a webpack project with TypeScript and using plugin in Webpack. Install webpack and loaders packages Create project files Configuration tsconfig.json Code Explanation webpack.config.js Code" />
 <meta property="og:url"
-  content="/setup-webpack-with-typescript" />
+  content="/blog/setup-webpack-with-typescript" />
 <meta property="og:image"
-  content="/assets/images/post-covers/webpack-typescript.png" />
+  content="/blog/assets/images/post-covers/webpack-typescript.png" />
 <meta property="article:publisher" content="https://www.facebook.com/" />
 <meta property="article:author" content="https://www.facebook.com/" />
 <meta property="article:published_time"
@@ -62,9 +62,9 @@
   content="Setup Webpack TypeScript" />
 <meta name="twitter:description"
   content="How to setup a webpack project with TypeScript? We continue from the previous article basic setup webpack. In this article, we will discover how to setup a webpack project with TypeScript and using plugin in Webpack. Install webpack and loaders packages Create project files Configuration tsconfig.json Code Explanation webpack.config.js Code" />
-<meta name="twitter:url" content="/" />
+<meta name="twitter:url" content="/blog/" />
 <meta name="twitter:image"
-  content="/assets/images/post-covers/webpack-typescript.png" />
+  content="/blog/assets/images/post-covers/webpack-typescript.png" />
 <meta name="twitter:label1" content="Written by" />
 <meta name="twitter:data1" content="Adev42" />
 <meta name="twitter:label2" content="Filed under" />
@@ -81,18 +81,18 @@
     "publisher": {
       "@type": "Organization",
       "name": "Adev42",
-      "logo": "/assets/images/blog-icon-200.png"
+      "logo": "/blog/assets/images/blog-icon-200.png"
     },
-    "url": "/setup-webpack-with-typescript",
+    "url": "/blog/setup-webpack-with-typescript",
     "image": {
       "@type": "ImageObject",
-      "url": "/assets/images/post-covers/webpack-typescript.png",
+      "url": "/blog/assets/images/post-covers/webpack-typescript.png",
       "width": 2000,
       "height": 666
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "/setup-webpack-with-typescript"
+      "@id": "/blog/setup-webpack-with-typescript"
     },
     "description": "How to setup a webpack project with TypeScript? We continue from the previous article basic setup webpack. In this article, we will discover how to setup a webpack project with TypeScript and using plugin in Webpack. Install webpack and loaders packages Create project files Configuration tsconfig.json Code Explanation webpack.config.js Code"
   }
@@ -100,7 +100,7 @@
 
 <meta name="generator" content="Jekyll 3.6.2" />
 <link rel="alternate" type="application/rss+xml"
-  title="Setup Webpack TypeScript" href="/feed.xml" />
+  title="Setup Webpack TypeScript" href="/blog/feed.xml" />
 
 </head>
 
@@ -119,22 +119,22 @@ into the {body} of the default.hbs template -->
   <div class="site-nav-left">
     
     
-    <a class="site-nav-logo" href="/"><img src="/assets/images/blog-icon-200.png"
+    <a class="site-nav-logo" href="/blog/"><img src="/blog/assets/images/blog-icon-200.png"
         alt="Adev42" /></a>
     
     
     
     <ul class="nav" role="menu">
-  <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
-  <li class="nav-getting-started" role="menuitem"><a href="/tag/me/">Me</a>
+  <li class="nav-home" role="menuitem"><a href="/blog/">Home</a></li>
+  <li class="nav-getting-started" role="menuitem"><a href="/blog/tag/me/">Me</a>
   </li>
-  <li class="nav-getting-started" role="menuitem"><a href="/tag/web-development/">Web Development</a>
+  <li class="nav-getting-started" role="menuitem"><a href="/blog/tag/web-development/">Web Development</a>
   </li>
-  <li class="nav-getting-started" role="menuitem"><a href="/tag/algorithms/">Algorithms</a>
+  <li class="nav-getting-started" role="menuitem"><a href="/blog/tag/algorithms/">Algorithms</a>
   </li>
-  <li class="nav-getting-started" role="menuitem"><a href="/tag/docker/">Docker</a>
+  <li class="nav-getting-started" role="menuitem"><a href="/blog/tag/docker/">Docker</a>
   </li>
-  <li class="nav-about" role="menuitem"><a href="/about/">Contact</a></li>
+  <li class="nav-about" role="menuitem"><a href="/blog/about/">Contact</a></li>
 </ul>
     
   </div>
@@ -179,7 +179,7 @@ into the {body} of the default.hbs template -->
           <span class="date-divider">/</span>
           
           
-          <a href='/tag/web-development/'>WEB DEVELOPMENT</a>
+          <a href='/blog/tag/web-development/'>WEB DEVELOPMENT</a>
           
           
           
@@ -188,7 +188,7 @@ into the {body} of the default.hbs template -->
       </header>
 
       
-      <figure class="post-full-image" style="background-image: url(/assets/images/post-covers/webpack-typescript.png)">
+      <figure class="post-full-image" style="background-image: url(/blog/assets/images/post-covers/webpack-typescript.png)">
       </figure>
       
 
@@ -669,11 +669,11 @@ into the {body} of the default.hbs template -->
         
         <section class="author-card">
           
-          <img class="author-profile-image" src="/assets/images/blog-icon-200.png" alt="tienduy"
+          <img class="author-profile-image" src="/blog/assets/images/blog-icon-200.png" alt="tienduy"
             loading="lazy" />
           
           <section class="author-card-content">
-            <h4 class="author-card-name"><a href="/author/tienduy">TienDuy</a>
+            <h4 class="author-card-name"><a href="/blog/author/tienduy">TienDuy</a>
             </h4>
             
             <p>Tien Duy is a full-stack web developer. He loves coding, solving problems and learning from others.</p>
@@ -681,7 +681,7 @@ into the {body} of the default.hbs template -->
           </section>
         </section>
         <div class="post-full-footer-right">
-          <a class="author-card-button" href="/author/tienduy">Read More</a>
+          <a class="author-card-button" href="/blog/author/tienduy">Read More</a>
         </div>
         
         
@@ -735,12 +735,12 @@ into the {body} of the default.hbs template -->
       
       
       <article class="read-next-card" 
-        style="background-image: url(/assets/images/blog-cover3.jpeg)" >
+        style="background-image: url(/blog/assets/images/blog-cover3.jpeg)" >
         <header class="read-next-card-header">
           <small class="read-next-card-header-sitetitle">&mdash; Adev42 &mdash;</small>
           
           <h3 class="read-next-card-header-title"><a
-              href="/tag/web-development/">Web development</a></h3>
+              href="/blog/tag/web-development/">Web development</a></h3>
           
         </header>
         <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
@@ -757,7 +757,7 @@ into the {body} of the default.hbs template -->
             
             
             
-            <li><a href="/config-esling-prettier-react-app">Config ESLint, Prettier for React App in VSCode</a></li>
+            <li><a href="/blog/config-esling-prettier-react-app">Config ESLint, Prettier for React App in VSCode</a></li>
             
             
             
@@ -766,7 +766,7 @@ into the {body} of the default.hbs template -->
             
             
             
-            <li><a href="/setup-webpack-react-typescript">Setup Webpack React TypeScript</a></li>
+            <li><a href="/blog/setup-webpack-react-typescript">Setup Webpack React TypeScript</a></li>
             
             
             
@@ -779,7 +779,7 @@ into the {body} of the default.hbs template -->
             
             
             
-            <li><a href="/basic-setup-webpack">Basic Setup Webpack</a></li>
+            <li><a href="/blog/basic-setup-webpack">Basic Setup Webpack</a></li>
             
             
             
@@ -812,7 +812,7 @@ into the {body} of the default.hbs template -->
           </ul>
         </div>
         <footer class="read-next-card-footer">
-          <a href="/tag/web-development/">
+          <a href="/blog/tag/web-development/">
             
             See all 4 posts →
             
@@ -828,12 +828,12 @@ into the {body} of the default.hbs template -->
 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/setup-webpack-react-typescript">
-                <div class="post-card-image" style="background-image: url(/assets/images/post-covers/webpack-ts-react.jpg)"></div>
+            <a class="post-card-image-link" href="/blog/setup-webpack-react-typescript">
+                <div class="post-card-image" style="background-image: url(/blog/assets/images/post-covers/webpack-ts-react.jpg)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/setup-webpack-react-typescript">
+            <a class="post-card-content-link" href="/blog/setup-webpack-react-typescript">
                 <header class="post-card-header">
                     
                         
@@ -855,10 +855,10 @@ into the {body} of the default.hbs template -->
                 
                     
                         
-                        <img class="author-profile-image" src="/assets/images/blog-icon-200.png" alt="TienDuy" />
+                        <img class="author-profile-image" src="/blog/assets/images/blog-icon-200.png" alt="TienDuy" />
                         
                         <span class="post-card-author">
-                            <a href="/author/tienduy/">TienDuy</a>
+                            <a href="/blog/author/tienduy/">TienDuy</a>
                         </span>
                     
                 
@@ -880,12 +880,12 @@ into the {body} of the default.hbs template -->
 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/basic-setup-webpack">
-                <div class="post-card-image" style="background-image: url(/assets/images/post-covers/webpack.png)"></div>
+            <a class="post-card-image-link" href="/blog/basic-setup-webpack">
+                <div class="post-card-image" style="background-image: url(/blog/assets/images/post-covers/webpack.png)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/basic-setup-webpack">
+            <a class="post-card-content-link" href="/blog/basic-setup-webpack">
                 <header class="post-card-header">
                     
                         
@@ -907,10 +907,10 @@ into the {body} of the default.hbs template -->
                 
                     
                         
-                        <img class="author-profile-image" src="/assets/images/blog-icon-200.png" alt="TienDuy" />
+                        <img class="author-profile-image" src="/blog/assets/images/blog-icon-200.png" alt="TienDuy" />
                         
                         <span class="post-card-author">
-                            <a href="/author/tienduy/">TienDuy</a>
+                            <a href="/blog/author/tienduy/">TienDuy</a>
                         </span>
                     
                 
@@ -933,9 +933,9 @@ into the {body} of the default.hbs template -->
 <!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
 <div class="floating-header">
     <div class="floating-header-logo">
-        <a href="/">
+        <a href="/blog/">
             
-                <img src="/assets/images/favicon.png" alt="Adev42 icon" />
+                <img src="/blog/assets/images/favicon.png" alt="Adev42 icon" />
             
             <span>Adev42</span>
         </a>
@@ -976,11 +976,11 @@ into the {body} of the default.hbs template -->
     <!-- The footer at the very bottom of the screen -->
     <footer class="site-footer outer">
       <div class="site-footer-content inner">
-        <section class="copyright"><a href="/">Adev42</a> &copy;
+        <section class="copyright"><a href="/blog/">Adev42</a> &copy;
           2024</section>
         <section class="poweredby">Powered by <a href="https://jekyllrb.com/">Jekyll</a></section>
         <nav class="site-footer-nav">
-          <a href="/">Latest Posts</a>
+          <a href="/blog/">Latest Posts</a>
           
           <a href="https://twitter.com/tienduy_nguyen" target="_blank"
             rel="noopener">Twitter</a>
@@ -998,7 +998,7 @@ into the {body} of the default.hbs template -->
     <a class="subscribe-overlay-close" href="#"></a>
     <div class="subscribe-overlay-content">
       
-      <img class="subscribe-overlay-logo" src="/assets/images/blog-icon-200.png" alt="Adev42" />
+      <img class="subscribe-overlay-logo" src="/blog/assets/images/blog-icon-200.png" alt="Adev42" />
       
       <h1 class="subscribe-overlay-title">Subscribe to Adev42</h1>
       <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered
@@ -1027,7 +1027,7 @@ into the {body} of the default.hbs template -->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"
     integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous">
   </script>
-  <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="/blog/assets/js/jquery.fitvids.js"></script>
 
   
 

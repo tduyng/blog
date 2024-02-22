@@ -23,7 +23,7 @@ kramdown:
   enable_coderay: false
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /blog/
 
 # Website info
 title: Adev42

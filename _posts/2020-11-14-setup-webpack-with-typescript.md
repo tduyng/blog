@@ -10,7 +10,7 @@ tags: [Web Development]
 How to setup a webpack project with TypeScript?
 
 
-We continue from the previous article [basic setup webpack](https://blog.adev42.com/basic-setup-webpack). In this article, we will discover how to setup a webpack project with TypeScript and using plugin in Webpack.
+We continue from the previous article [basic setup webpack](https://tienduy-nguyen.github.io/blog/basic-setup-webpack). In this article, we will discover how to setup a webpack project with TypeScript and using plugin in Webpack.
 
 
 - [Install webpack and loaders packages](#install-webpack-and-loaders-packages)
@@ -35,7 +35,7 @@ We continue from the previous article [basic setup webpack](https://blog.adev42.
   $ yarn add webpack webpack-cli webpack-dev-server style-loader css-loader sass sass-loader file-loader -D
   ```
 
-  To understand each dependencies means, checkout my previous article [basic setup webpack](https://blog.adev42.com/basic-setup-webpack)
+  To understand each dependencies means, checkout my previous article [basic setup webpack](https://tienduy-nguyen.github.io/blog/basic-setup-webpack)
 
 - Install HTMLWebpackPlugin
   
@@ -186,7 +186,7 @@ Create compileOption for TypeScript: `tsc --init` or create directly `tsconfig.j
   - **target**: Version javascript that we want to build from TypeScript. Here is `ES6`
   - **allowJs**: Allow use using `js` file in TypeScript project
   - **strict**: `Strict mode` for Typescript
-  - **module**: After compiling the js, the codes will be written as ESNext module. There are many option here, but we do not recommend use the option `commonJS` because il will lose the [Tree-shaking](https://webpack.js.org/guides/tree-shaking/) feature of webpack. See this feature in [my previous post](https://blog.adev42.com/basic-setup-webpack#tree-shaking-in-webpack)
+  - **module**: After compiling the js, the codes will be written as ESNext module. There are many option here, but we do not recommend use the option `commonJS` because il will lose the [Tree-shaking](https://webpack.js.org/guides/tree-shaking/) feature of webpack. See this feature in [my previous post](https://tienduy-nguyen.github.io/blog/basic-setup-webpack#tree-shaking-in-webpack)
   - **noImplicitAny**: Do not allow any implicit understanding
   - **sourceMap**: easier to debug in dev enviroment. We need use it in both `tsconfig` and `webpack.config`
   - **baseUrl**: The base path, usually "./". If you use the `path` option below, you must specify baseUrl
@@ -353,6 +353,6 @@ module.exports = (env, agrv) => {
 ## Reference
 - [Source code GitHub](https://github.com/tienduy-nguyen/webpack/tree/master/webpack-typescript)
 
-- [Previous post - basic setup webpack](https://blog.adev42.com/basic-setup-webpack)
+- [Previous post - basic setup webpack](https://tienduy-nguyen.github.io/blog/basic-setup-webpack)
 
 - [Ref](https://xdevclass.com/webpack-sieu-toc-2-cau-hinh-typescript-alias-hash-bundle/)

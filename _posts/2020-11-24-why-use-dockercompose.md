@@ -116,7 +116,7 @@ Make sure you have docker & docker-compose installed in your machine:
   CMD ["node", "index.js"] #Command line to run project
 
   ```
-  You can also check an article on my blog for more information of Dockerfile: [Create simple project Nodejs with Docker](https://blog.adev42.com/create-simple-project-nodejs-with-docker)
+  You can also check an article on my blog for more information of Dockerfile: [Create simple project Nodejs with Docker](https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker)
 - Create `.dockerignore`
   
   ```yml
@@ -263,7 +263,7 @@ Docker compose:
 
 ## Reference
 - [Code demo GitHub](https://github.com/tienduy-nguyen/try-docker/tree/master/01.dive-into-docker/simple-with-redis)
-- [Previous post: create simple Nodejs app with Docker](https://blog.adev42.com/create-simple-project-nodejs-with-docker)
+- [Previous post: create simple Nodejs app with Docker](https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker)
 - [Docker official](https://docs.docker.com/)
 - [Learn about **Docker compose**](https://docs.docker.com/compose/)
 - [Docker compose cheatsheet](https://jstobigdata.com/docker-compose-cheatsheet/)

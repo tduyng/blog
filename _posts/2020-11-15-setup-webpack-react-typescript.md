@@ -15,8 +15,8 @@ With [create-react-app](https://github.com/facebook/create-react-app), it only t
 
 
 If you do not have any knowledge about webpack, you can refer my two previous articles:
-- [Setup basic webpack](https://blog.adev42.com/basic-setup-webpack)
-- [Webpack & TypeScript](https://blog.adev42.com/setup-webpack-with-typescript)
+- [Setup basic webpack](https://tienduy-nguyen.github.io/blog/basic-setup-webpack)
+- [Webpack & TypeScript](https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript)
 
 ## Init project
 - Install dependencies packages
@@ -34,7 +34,7 @@ If you do not have any knowledge about webpack, you can refer my two previous ar
   - **compression-webpack-plugin**: Compress asset file (css, js, html ...) to **gzip** Check more [compression-webpack-plugin](https://webpack.js.org/plugins/compression-webpack-plugin/)
   - **copy-webpack-plugin**: Copies individual files or entire directories, which already exist, to the build directory. For example: you have files such as favicon.ico, robots.txt at the same level as index.html, when the build is complete, these files will also be present in the build. If you do not have this plugin, you have to copy them manually. Check [copy-webpack-plugin](https://webpack.js.org/plugins/copy-webpack-plugin/).
   - **dotenv-webpack**: Using `.env` file in your app. Check [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack)
-  - **html-webpack-plugin**: Clone `public/index.html` file to build folder. Check how it works in my previous post [Webpack & Typescript](https://blog.adev42.com/setup-webpack-with-typescript)
+  - **html-webpack-plugin**: Clone `public/index.html` file to build folder. Check how it works in my previous post [Webpack & Typescript](https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript)
   - **mini-css-extract-plugin**: Normally, the `css` will be in the js file after build. When running the app, `js` will add that `css` to <style></style> tag. Now, if we want the `css` to be in a separate file with `js` and when app running, `js` will automatically import it with the <link></link> tag. That is the function of this plugin.  
   Check more information for [mini-css-extract-plugin](https://webpack.js.org/plugins/mini-css-extract-plugin/)
   - **webpack-bundle-analyzer**: It will create an interactive treemap visualization of the contents of all your bundles. Check [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
@@ -106,7 +106,7 @@ If you do not have any knowledge about webpack, you can refer my two previous ar
 ## Configuration
 ### Config `tsconfig.json`
 - Code
-  I will use TypeScript for this template, so I need a config file for TypeScript to compile JavaScript. If you want to use JavaScript, that will be very similar, you just need install `babel` and these loader. Check my [previous article](https://blog.adev42.com/basic-setup-webpack) for the details.
+  I will use TypeScript for this template, so I need a config file for TypeScript to compile JavaScript. If you want to use JavaScript, that will be very similar, you just need install `babel` and these loader. Check my [previous article](https://tienduy-nguyen.github.io/blog/basic-setup-webpack) for the details.
 
   ```json
   {
@@ -265,7 +265,7 @@ If you do not have any knowledge about webpack, you can refer my two previous ar
   ```
 - Explanation
   
-  I have explain the details of many definition in the `webpack.config.js` file in my two previous article [setup webpack basic](https://blog.adev42.com/basic-setup-webpack) & [setup webpack typescript](https://blog.adev42.com/setup-webpack-with-typescript). In this article, I just explain the new definitions..
+  I have explain the details of many definition in the `webpack.config.js` file in my two previous article [setup webpack basic](https://tienduy-nguyen.github.io/blog/basic-setup-webpack) & [setup webpack typescript](https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript). In this article, I just explain the new definitions..
 
   - `isDev`: We have 2 modes: **development** and **production** equivalent to dev and build. These two modes are passed through the `--mode` in the script in `package.json`.
   - `isAnalyze`: To define use `BundleAnalyzerPlugin` or not

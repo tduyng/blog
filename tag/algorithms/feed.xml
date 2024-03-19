@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator>
   <link href="/blog/tag/algorithms/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2024-02-22T16:39:27+01:00</updated>
+  <updated>2024-03-19T18:19:58+01:00</updated>
   <id>/blog/tag/algorithms/feed.xml</id>
 
   
@@ -43,7 +43,7 @@
 
 &lt;h2 id=&quot;kata-challenges&quot;&gt;Kata challenges&lt;/h2&gt;
 
-&lt;p&gt;My level on codewars now is 5kyu. You can check my &lt;a href=&quot;https://www.codewars.com/users/tienduy-nguyen&quot;&gt;Codewars&lt;/a&gt;. So, today when I take the new challenges with the option rank up, Codewars gave me only the 5kyu challenges.&lt;/p&gt;
+&lt;p&gt;My level on codewars now is 5kyu. You can check my &lt;a href=&quot;https://www.codewars.com/users/tduyng&quot;&gt;Codewars&lt;/a&gt;. So, today when I take the new challenges with the option rank up, Codewars gave me only the 5kyu challenges.&lt;/p&gt;
 
 &lt;p&gt;Let’s take a look together!&lt;/p&gt;
 
@@ -314,9 +314,9 @@ With these solutions, I can learn more about a method “.succ” and “.next�
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;You can find the code in my github repository &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tienduy-nguyen/coding-challenge/tree/master/codewars-ruby&quot;&gt;Codewars Ruby&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find the code in my github repository &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tduyng/coding-challenge/tree/master/codewars-ruby&quot;&gt;Codewars Ruby&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You can also check out my another repository that contains all the programs day by day I worked with The Hacking project &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tienduy-nguyen/thehackingproject&quot;&gt;thehackingproject&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also check out my another repository that contains all the programs day by day I worked with The Hacking project &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tduyng/thehackingproject&quot;&gt;thehackingproject&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Hacking Project website &lt;a href=&quot;https://www.thehackingproject.org/&quot;&gt;thehackingproject.org&lt;/a&gt;&lt;/p&gt;
 
@@ -506,9 +506,9 @@ I need to learn more about using the block code of the gsub like them.&lt;/p&gt;
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;You can find the code in my github repository &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tienduy-nguyen/coding-challenge/tree/master/codewars-ruby&quot;&gt;Codewars Ruby&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find the code in my github repository &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tduyng/coding-challenge/tree/master/codewars-ruby&quot;&gt;Codewars Ruby&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You can also check out my another repository that contains all the programs day by day I worked with The Hacking project &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tienduy-nguyen/thehackingproject&quot;&gt;thehackingproject&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also check out my another repository that contains all the programs day by day I worked with The Hacking project &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tduyng/thehackingproject&quot;&gt;thehackingproject&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Hacking Project website &lt;a href=&quot;https://www.thehackingproject.org/&quot;&gt;thehackingproject.org&lt;/a&gt;&lt;/p&gt;
 
@@ -1033,9 +1033,9 @@ Should return: 160 (the only even number)
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;You can find the code in my github repository &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tienduy-nguyen/coding-challenge/tree/master/codewars-ruby&quot;&gt;Codewars Ruby&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find the code in my github repository &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tduyng/coding-challenge/tree/master/codewars-ruby&quot;&gt;Codewars Ruby&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You can also check out my another repository that contains all the programs day by day I worked with The Hacking project &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tienduy-nguyen/thehackingproject&quot;&gt;thehackingproject&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also check out my another repository that contains all the programs day by day I worked with The Hacking project &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://github.com/tduyng/thehackingproject&quot;&gt;thehackingproject&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Hacking Project website &lt;a href=&quot;https://www.thehackingproject.org/&quot;&gt;thehackingproject.org&lt;/a&gt;&lt;/p&gt;
 

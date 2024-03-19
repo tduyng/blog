@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator>
   <link href="/blog/tag/docker/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2024-02-22T16:39:27+01:00</updated>
+  <updated>2024-03-19T18:19:58+01:00</updated>
   <id>/blog/tag/docker/feed.xml</id>
 
   
@@ -143,7 +143,7 @@
 &lt;span class=&quot;s&quot;&gt;CMD [&quot;node&quot;, &quot;index.js&quot;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#Command line to run project&lt;/span&gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;You can also check an article on my blog for more information of Dockerfile: &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Create simple project Nodejs with Docker&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;You can also check an article on my blog for more information of Dockerfile: &lt;a href=&quot;https://tduyng.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Create simple project Nodejs with Docker&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Create &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.dockerignore&lt;/code&gt;&lt;/p&gt;
@@ -299,8 +299,8 @@ It is a config file for docker-compose. It allows us to define the services (con
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/try-docker/tree/master/01.dive-into-docker/simple-with-redis&quot;&gt;Code demo GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Previous post: create simple Nodejs app with Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tduyng/try-docker/tree/master/01.dive-into-docker/simple-with-redis&quot;&gt;Code demo GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tduyng.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Previous post: create simple Nodejs app with Docker&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/&quot;&gt;Docker official&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/compose/&quot;&gt;Learn about &lt;strong&gt;Docker compose&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://jstobigdata.com/docker-compose-cheatsheet/&quot;&gt;Docker compose cheatsheet&lt;/a&gt;&lt;/li&gt;
@@ -551,7 +551,7 @@ It is a config file for docker-compose. It allows us to define the services (con
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/try-docker/tree/master/01.dive-into-docker/simple-nodejs&quot;&gt;Code GitHub example&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tduyng/try-docker/tree/master/01.dive-into-docker/simple-nodejs&quot;&gt;Code GitHub example&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/_/node/&quot;&gt;Official Nodejs Docker image&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md&quot;&gt;Nodejs Docker best practice guide&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/&quot;&gt;Official Docker documentation&lt;/a&gt;&lt;/li&gt;

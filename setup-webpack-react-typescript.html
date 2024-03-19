@@ -32,7 +32,7 @@
   <!-- This tag outputs SEO meta+structured data and other important settings -->
   <meta name="description"
   content="Learning is an endless journey" />
-<link rel="shortcut icon" href="https://tienduy-nguyen.github.io/blog//blog/assets/images/favicon.png" type="image/png" />
+<link rel="shortcut icon" href="https://tduyng.github.io/blog//blog/assets/images/favicon.png" type="image/png" />
 <link rel="canonical"
   href="/blog/setup-webpack-react-typescript" />
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -147,7 +147,7 @@ into the {body} of the default.hbs template -->
 </a>
       
       
-      <a class="social-link social-link-lkin" href="https://linkedin.com/in/tienduy-nguyen" target="_blank"
+      <a class="social-link social-link-lkin" href="https://linkedin.com/in/tduyng" target="_blank"
         rel="noopener"><svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16px" height="16px">
   <path
     d="M 21.800781 0 L 2.199219 0 C 1 0 0 1 0 2.199219 L 0 21.800781 C 0 23 1 24 2.199219 24 L 21.800781 24 C 23 24 24 23 24 21.800781 L 24 2.199219 C 24 1 23 0 21.800781 0 Z M 7 20 L 3 20 L 3 9 L 7 9 Z M 5 7.699219 C 3.800781 7.699219 3 6.898438 3 5.898438 C 3 4.800781 3.800781 4 5 4 C 6.199219 4 7 4.800781 7 5.800781 C 7 6.898438 6.199219 7.699219 5 7.699219 Z M 21 20 L 17 20 L 17 14 C 17 12.398438 15.898438 12 15.601563 12 C 15.300781 12 14 12.199219 14 14 C 14 14.199219 14 20 14 20 L 10 20 L 10 9 L 14 9 L 14 10.601563 C 14.601563 9.699219 15.601563 9 17.5 9 C 19.398438 9 21 10.5 21 14 Z" />
@@ -244,8 +244,8 @@ into the {body} of the default.hbs template -->
 
 <p>If you do not have any knowledge about webpack, you can refer my two previous articles:</p>
 <ul>
-  <li><a href="https://tienduy-nguyen.github.io/blog/basic-setup-webpack">Setup basic webpack</a></li>
-  <li><a href="https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript">Webpack &amp; TypeScript</a></li>
+  <li><a href="https://tduyng.github.io/blog/basic-setup-webpack">Setup basic webpack</a></li>
+  <li><a href="https://tduyng.github.io/blog/setup-webpack-with-typescript">Webpack &amp; TypeScript</a></li>
 </ul>
 
 <h2 id="init-project">Init project</h2>
@@ -265,7 +265,7 @@ into the {body} of the default.hbs template -->
       <li><strong>compression-webpack-plugin</strong>: Compress asset file (css, js, html …) to <strong>gzip</strong> Check more <a href="https://webpack.js.org/plugins/compression-webpack-plugin/">compression-webpack-plugin</a></li>
       <li><strong>copy-webpack-plugin</strong>: Copies individual files or entire directories, which already exist, to the build directory. For example: you have files such as favicon.ico, robots.txt at the same level as index.html, when the build is complete, these files will also be present in the build. If you do not have this plugin, you have to copy them manually. Check <a href="https://webpack.js.org/plugins/copy-webpack-plugin/">copy-webpack-plugin</a>.</li>
       <li><strong>dotenv-webpack</strong>: Using <code class="language-plaintext highlighter-rouge">.env</code> file in your app. Check <a href="https://github.com/mrsteele/dotenv-webpack">dotenv-webpack</a></li>
-      <li><strong>html-webpack-plugin</strong>: Clone <code class="language-plaintext highlighter-rouge">public/index.html</code> file to build folder. Check how it works in my previous post <a href="https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript">Webpack &amp; Typescript</a></li>
+      <li><strong>html-webpack-plugin</strong>: Clone <code class="language-plaintext highlighter-rouge">public/index.html</code> file to build folder. Check how it works in my previous post <a href="https://tduyng.github.io/blog/setup-webpack-with-typescript">Webpack &amp; Typescript</a></li>
       <li><strong>mini-css-extract-plugin</strong>: Normally, the <code class="language-plaintext highlighter-rouge">css</code> will be in the js file after build. When running the app, <code class="language-plaintext highlighter-rouge">js</code> will add that <code class="language-plaintext highlighter-rouge">css</code> to <style></style> tag. Now, if we want the <code class="language-plaintext highlighter-rouge">css</code> to be in a separate file with <code class="language-plaintext highlighter-rouge">js</code> and when app running, <code class="language-plaintext highlighter-rouge">js</code> will automatically import it with the <link />&lt;/link&gt; tag. That is the function of this plugin.<br />
 Check more information for <a href="https://webpack.js.org/plugins/mini-css-extract-plugin/">mini-css-extract-plugin</a></li>
       <li><strong>webpack-bundle-analyzer</strong>: It will create an interactive treemap visualization of the contents of all your bundles. Check <a href="https://github.com/webpack-contrib/webpack-bundle-analyzer">webpack-bundle-analyzer</a></li>
@@ -343,7 +343,7 @@ package-lock.json
 <ul>
   <li>
     <p>Code
-I will use TypeScript for this template, so I need a config file for TypeScript to compile JavaScript. If you want to use JavaScript, that will be very similar, you just need install <code class="language-plaintext highlighter-rouge">babel</code> and these loader. Check my <a href="https://tienduy-nguyen.github.io/blog/basic-setup-webpack">previous article</a> for the details.</p>
+I will use TypeScript for this template, so I need a config file for TypeScript to compile JavaScript. If you want to use JavaScript, that will be very similar, you just need install <code class="language-plaintext highlighter-rouge">babel</code> and these loader. Check my <a href="https://tduyng.github.io/blog/basic-setup-webpack">previous article</a> for the details.</p>
 
     <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
   </span><span class="nl">"compilerOptions"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
@@ -505,7 +505,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
   <li>
     <p>Explanation</p>
 
-    <p>I have explain the details of many definition in the <code class="language-plaintext highlighter-rouge">webpack.config.js</code> file in my two previous article <a href="https://tienduy-nguyen.github.io/blog/basic-setup-webpack">setup webpack basic</a> &amp; <a href="https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript">setup webpack typescript</a>. In this article, I just explain the new definitions..</p>
+    <p>I have explain the details of many definition in the <code class="language-plaintext highlighter-rouge">webpack.config.js</code> file in my two previous article <a href="https://tduyng.github.io/blog/basic-setup-webpack">setup webpack basic</a> &amp; <a href="https://tduyng.github.io/blog/setup-webpack-with-typescript">setup webpack typescript</a>. In this article, I just explain the new definitions..</p>
 
     <ul>
       <li><code class="language-plaintext highlighter-rouge">isDev</code>: We have 2 modes: <strong>development</strong> and <strong>production</strong> equivalent to dev and build. These two modes are passed through the <code class="language-plaintext highlighter-rouge">--mode</code> in the script in <code class="language-plaintext highlighter-rouge">package.json</code>.</li>
@@ -542,7 +542,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
 
 <span class="nt">&lt;/html&gt;</span>
 </code></pre></div>    </div>
-    <p>All others codes are created as a template of Webpack React TS project. Check <a href="https://github.com/tienduy-nguyen/webpack/tree/master/webpack-react-typescript">code GitHub</a> for more details.</p>
+    <p>All others codes are created as a template of Webpack React TS project. Check <a href="https://github.com/tduyng/webpack/tree/master/webpack-react-typescript">code GitHub</a> for more details.</p>
   </li>
   <li>Run and build project
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>yarn start <span class="c"># Run dev enviroment</span>
@@ -667,7 +667,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
 <h2 id="reference">Reference</h2>
 
 <ul>
-  <li><a href="https://github.com/tienduy-nguyen/webpack/tree/master/webpack-react-typescript">Gihub code demo</a></li>
+  <li><a href="https://github.com/tduyng/webpack/tree/master/webpack-react-typescript">Gihub code demo</a></li>
   <li><a href="https://xdevclass.com/webpack-sieu-toc-3-cau-hinh-react-typescript-eslint-prettier-hoan-chinh-tu-a-z/">Ref</a></li>
 </ul>
 
@@ -742,9 +742,9 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
   const gitalk = new Gitalk({
     clientID: '47d9028ad954579e29a1',
     clientSecret: "0fc3a929bc1c7d9db3678dd52952f1342c01cf2c",
-    repo: "tienduy-nguyen",
-    owner: "tienduy-nguyen",
-    admin: ["tienduy-nguyen"],
+    repo: "tduyng",
+    owner: "tduyng",
+    admin: ["tduyng"],
     id: "/setup-webpack-react-typescript", // Ensure uniqueness and length less than 50 
     distractionFreeMode: false, // Facebook-like distraction free mode
     perPage: 100
@@ -984,12 +984,12 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Setup+Webpack+React+TypeScript&amp;url=https://tienduy-nguyen.github.io/blog/setup-webpack-react-typescript"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Setup+Webpack+React+TypeScript&amp;url=https://tduyng.github.io/blog/setup-webpack-react-typescript"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://tienduy-nguyen.github.io/blog/setup-webpack-react-typescript"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://tduyng.github.io/blog/setup-webpack-react-typescript"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 
@@ -1021,7 +1021,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
           
           <a href="https://twitter.com/tienduy_nguyen" target="_blank"
             rel="noopener">Twitter</a>
-          <a href="https://linkedin.com/in/tienduy-nguyen" target="_blank"
+          <a href="https://linkedin.com/in/tduyng" target="_blank"
             rel="noopener">Linkedin</a>
         </nav>
       </div>

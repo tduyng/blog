@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator>
   <link href="/blog/author/tienduy/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2024-02-22T16:39:27+01:00</updated>
+  <updated>2024-03-19T18:19:58+01:00</updated>
   <id>/blog/author/tienduy/feed.xml</id>
 
   
@@ -143,7 +143,7 @@
 &lt;span class=&quot;s&quot;&gt;CMD [&quot;node&quot;, &quot;index.js&quot;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#Command line to run project&lt;/span&gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;You can also check an article on my blog for more information of Dockerfile: &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Create simple project Nodejs with Docker&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;You can also check an article on my blog for more information of Dockerfile: &lt;a href=&quot;https://tduyng.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Create simple project Nodejs with Docker&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Create &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.dockerignore&lt;/code&gt;&lt;/p&gt;
@@ -299,8 +299,8 @@ It is a config file for docker-compose. It allows us to define the services (con
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/try-docker/tree/master/01.dive-into-docker/simple-with-redis&quot;&gt;Code demo GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tienduy-nguyen.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Previous post: create simple Nodejs app with Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tduyng/try-docker/tree/master/01.dive-into-docker/simple-with-redis&quot;&gt;Code demo GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tduyng.github.io/blog/create-simple-project-nodejs-with-docker&quot;&gt;Previous post: create simple Nodejs app with Docker&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/&quot;&gt;Docker official&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/compose/&quot;&gt;Learn about &lt;strong&gt;Docker compose&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://jstobigdata.com/docker-compose-cheatsheet/&quot;&gt;Docker compose cheatsheet&lt;/a&gt;&lt;/li&gt;
@@ -551,7 +551,7 @@ It is a config file for docker-compose. It allows us to define the services (con
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/try-docker/tree/master/01.dive-into-docker/simple-nodejs&quot;&gt;Code GitHub example&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tduyng/try-docker/tree/master/01.dive-into-docker/simple-nodejs&quot;&gt;Code GitHub example&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/_/node/&quot;&gt;Official Nodejs Docker image&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md&quot;&gt;Nodejs Docker best practice guide&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/&quot;&gt;Official Docker documentation&lt;/a&gt;&lt;/li&gt;
@@ -810,12 +810,12 @@ Ignore files that we don’t want to catch errors.&lt;/p&gt;
 
 &lt;p&gt;So that’s it. Hope you learned something new. Eslint is endlessly customizable and you should explore more to find some plugins and configs that best benefit your project.&lt;/p&gt;
 
-&lt;p&gt;All the code snippets can be found here on &lt;a href=&quot;https://github.com/tienduy-nguyen/webpack-react-typescript-template&quot;&gt;my GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All the code snippets can be found here on &lt;a href=&quot;https://github.com/tduyng/webpack-react-typescript-template&quot;&gt;my GitHub&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/webpack-react-typescript-template&quot;&gt;Code GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tduyng/webpack-react-typescript-template&quot;&gt;Code GitHub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dev.to/onygami/eslint-and-prettier-for-react-apps-bonus-next-js-and-typescript-3e46&quot;&gt;Setup eslint prettier from scratch on dev.to&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://xdevclass.com/cai-dat-moi-truong-code-react-toi-uu-vs-code-prettier-eslint/&quot;&gt;Other Ref&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
@@ -860,8 +860,8 @@ Ignore files that we don’t want to catch errors.&lt;/p&gt;
 
 &lt;p&gt;If you do not have any knowledge about webpack, you can refer my two previous articles:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tienduy-nguyen.github.io/blog/basic-setup-webpack&quot;&gt;Setup basic webpack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript&quot;&gt;Webpack &amp;amp; TypeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tduyng.github.io/blog/basic-setup-webpack&quot;&gt;Setup basic webpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tduyng.github.io/blog/setup-webpack-with-typescript&quot;&gt;Webpack &amp;amp; TypeScript&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;init-project&quot;&gt;Init project&lt;/h2&gt;
@@ -881,7 +881,7 @@ Ignore files that we don’t want to catch errors.&lt;/p&gt;
       &lt;li&gt;&lt;strong&gt;compression-webpack-plugin&lt;/strong&gt;: Compress asset file (css, js, html …) to &lt;strong&gt;gzip&lt;/strong&gt; Check more &lt;a href=&quot;https://webpack.js.org/plugins/compression-webpack-plugin/&quot;&gt;compression-webpack-plugin&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;copy-webpack-plugin&lt;/strong&gt;: Copies individual files or entire directories, which already exist, to the build directory. For example: you have files such as favicon.ico, robots.txt at the same level as index.html, when the build is complete, these files will also be present in the build. If you do not have this plugin, you have to copy them manually. Check &lt;a href=&quot;https://webpack.js.org/plugins/copy-webpack-plugin/&quot;&gt;copy-webpack-plugin&lt;/a&gt;.&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;dotenv-webpack&lt;/strong&gt;: Using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.env&lt;/code&gt; file in your app. Check &lt;a href=&quot;https://github.com/mrsteele/dotenv-webpack&quot;&gt;dotenv-webpack&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;html-webpack-plugin&lt;/strong&gt;: Clone &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;public/index.html&lt;/code&gt; file to build folder. Check how it works in my previous post &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript&quot;&gt;Webpack &amp;amp; Typescript&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;html-webpack-plugin&lt;/strong&gt;: Clone &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;public/index.html&lt;/code&gt; file to build folder. Check how it works in my previous post &lt;a href=&quot;https://tduyng.github.io/blog/setup-webpack-with-typescript&quot;&gt;Webpack &amp;amp; Typescript&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;mini-css-extract-plugin&lt;/strong&gt;: Normally, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;css&lt;/code&gt; will be in the js file after build. When running the app, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;js&lt;/code&gt; will add that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;css&lt;/code&gt; to &lt;style&gt;&lt;/style&gt; tag. Now, if we want the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;css&lt;/code&gt; to be in a separate file with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;js&lt;/code&gt; and when app running, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;js&lt;/code&gt; will automatically import it with the &lt;link /&gt;&amp;lt;/link&amp;gt; tag. That is the function of this plugin.&lt;br /&gt;
 Check more information for &lt;a href=&quot;https://webpack.js.org/plugins/mini-css-extract-plugin/&quot;&gt;mini-css-extract-plugin&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;webpack-bundle-analyzer&lt;/strong&gt;: It will create an interactive treemap visualization of the contents of all your bundles. Check &lt;a href=&quot;https://github.com/webpack-contrib/webpack-bundle-analyzer&quot;&gt;webpack-bundle-analyzer&lt;/a&gt;&lt;/li&gt;
@@ -959,7 +959,7 @@ package-lock.json
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Code
-I will use TypeScript for this template, so I need a config file for TypeScript to compile JavaScript. If you want to use JavaScript, that will be very similar, you just need install &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;babel&lt;/code&gt; and these loader. Check my &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/basic-setup-webpack&quot;&gt;previous article&lt;/a&gt; for the details.&lt;/p&gt;
+I will use TypeScript for this template, so I need a config file for TypeScript to compile JavaScript. If you want to use JavaScript, that will be very similar, you just need install &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;babel&lt;/code&gt; and these loader. Check my &lt;a href=&quot;https://tduyng.github.io/blog/basic-setup-webpack&quot;&gt;previous article&lt;/a&gt; for the details.&lt;/p&gt;
 
     &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;compilerOptions&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
@@ -1121,7 +1121,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
   &lt;li&gt;
     &lt;p&gt;Explanation&lt;/p&gt;
 
-    &lt;p&gt;I have explain the details of many definition in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt; file in my two previous article &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/basic-setup-webpack&quot;&gt;setup webpack basic&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/setup-webpack-with-typescript&quot;&gt;setup webpack typescript&lt;/a&gt;. In this article, I just explain the new definitions..&lt;/p&gt;
+    &lt;p&gt;I have explain the details of many definition in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;webpack.config.js&lt;/code&gt; file in my two previous article &lt;a href=&quot;https://tduyng.github.io/blog/basic-setup-webpack&quot;&gt;setup webpack basic&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://tduyng.github.io/blog/setup-webpack-with-typescript&quot;&gt;setup webpack typescript&lt;/a&gt;. In this article, I just explain the new definitions..&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;isDev&lt;/code&gt;: We have 2 modes: &lt;strong&gt;development&lt;/strong&gt; and &lt;strong&gt;production&lt;/strong&gt; equivalent to dev and build. These two modes are passed through the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--mode&lt;/code&gt; in the script in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;package.json&lt;/code&gt;.&lt;/li&gt;
@@ -1158,7 +1158,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
 
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;All others codes are created as a template of Webpack React TS project. Check &lt;a href=&quot;https://github.com/tienduy-nguyen/webpack/tree/master/webpack-react-typescript&quot;&gt;code GitHub&lt;/a&gt; for more details.&lt;/p&gt;
+    &lt;p&gt;All others codes are created as a template of Webpack React TS project. Check &lt;a href=&quot;https://github.com/tduyng/webpack/tree/master/webpack-react-typescript&quot;&gt;code GitHub&lt;/a&gt; for more details.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Run and build project
     &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;yarn start &lt;span class=&quot;c&quot;&gt;# Run dev enviroment&lt;/span&gt;
@@ -1283,7 +1283,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/webpack/tree/master/webpack-react-typescript&quot;&gt;Gihub code demo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tduyng/webpack/tree/master/webpack-react-typescript&quot;&gt;Gihub code demo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://xdevclass.com/webpack-sieu-toc-3-cau-hinh-react-typescript-eslint-prettier-hoan-chinh-tu-a-z/&quot;&gt;Ref&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
 
@@ -1321,7 +1321,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
       <id>/blog/setup-webpack-with-typescript</id>
       <content type="html" xml:base="/blog/setup-webpack-with-typescript">&lt;p&gt;How to setup a webpack project with TypeScript?&lt;/p&gt;
 
-&lt;p&gt;We continue from the previous article &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/basic-setup-webpack&quot;&gt;basic setup webpack&lt;/a&gt;. In this article, we will discover how to setup a webpack project with TypeScript and using plugin in Webpack.&lt;/p&gt;
+&lt;p&gt;We continue from the previous article &lt;a href=&quot;https://tduyng.github.io/blog/basic-setup-webpack&quot;&gt;basic setup webpack&lt;/a&gt;. In this article, we will discover how to setup a webpack project with TypeScript and using plugin in Webpack.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#install-webpack-and-loaders-packages&quot;&gt;Install webpack and loaders packages&lt;/a&gt;&lt;/li&gt;
@@ -1356,7 +1356,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
 &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;yarn add webpack webpack-cli webpack-dev-server style-loader css-loader sass sass-loader file-loader &lt;span class=&quot;nt&quot;&gt;-D&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
 
-    &lt;p&gt;To understand each dependencies means, checkout my previous article &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/basic-setup-webpack&quot;&gt;basic setup webpack&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;To understand each dependencies means, checkout my previous article &lt;a href=&quot;https://tduyng.github.io/blog/basic-setup-webpack&quot;&gt;basic setup webpack&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Install HTMLWebpackPlugin&lt;/p&gt;
@@ -1383,7 +1383,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
 
 &lt;h2 id=&quot;create-project-files&quot;&gt;Create project files&lt;/h2&gt;
 
-&lt;p&gt;We will create a simple project to understand each config for webpack project using TypeScript. This project will be the same the &lt;a href=&quot;https://github.com/tienduy-nguyen/webpack/tree/master/webpack-basic&quot;&gt;previous project&lt;/a&gt;. But we will code in TypeScript.&lt;/p&gt;
+&lt;p&gt;We will create a simple project to understand each config for webpack project using TypeScript. This project will be the same the &lt;a href=&quot;https://github.com/tduyng/webpack/tree/master/webpack-basic&quot;&gt;previous project&lt;/a&gt;. But we will code in TypeScript.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -1511,7 +1511,7 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
   &lt;li&gt;&lt;strong&gt;target&lt;/strong&gt;: Version javascript that we want to build from TypeScript. Here is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ES6&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;allowJs&lt;/strong&gt;: Allow use using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;js&lt;/code&gt; file in TypeScript project&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;strict&lt;/strong&gt;: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Strict mode&lt;/code&gt; for Typescript&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;module&lt;/strong&gt;: After compiling the js, the codes will be written as ESNext module. There are many option here, but we do not recommend use the option &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;commonJS&lt;/code&gt; because il will lose the &lt;a href=&quot;https://webpack.js.org/guides/tree-shaking/&quot;&gt;Tree-shaking&lt;/a&gt; feature of webpack. See this feature in &lt;a href=&quot;https://tienduy-nguyen.github.io/blog/basic-setup-webpack#tree-shaking-in-webpack&quot;&gt;my previous post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;module&lt;/strong&gt;: After compiling the js, the codes will be written as ESNext module. There are many option here, but we do not recommend use the option &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;commonJS&lt;/code&gt; because il will lose the &lt;a href=&quot;https://webpack.js.org/guides/tree-shaking/&quot;&gt;Tree-shaking&lt;/a&gt; feature of webpack. See this feature in &lt;a href=&quot;https://tduyng.github.io/blog/basic-setup-webpack#tree-shaking-in-webpack&quot;&gt;my previous post&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;noImplicitAny&lt;/strong&gt;: Do not allow any implicit understanding&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;sourceMap&lt;/strong&gt;: easier to debug in dev enviroment. We need use it in both &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tsconfig&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;webpack.config&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;baseUrl&lt;/strong&gt;: The base path, usually “./”. If you use the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;path&lt;/code&gt; option below, you must specify baseUrl&lt;/li&gt;
@@ -1697,10 +1697,10 @@ I will use TypeScript for this template, so I need a config file for TypeScript 
 &lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/webpack/tree/master/webpack-typescript&quot;&gt;Source code GitHub&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/tduyng/webpack/tree/master/webpack-typescript&quot;&gt;Source code GitHub&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://tienduy-nguyen.github.io/blog/basic-setup-webpack&quot;&gt;Previous post - basic setup webpack&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tduyng.github.io/blog/basic-setup-webpack&quot;&gt;Previous post - basic setup webpack&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://xdevclass.com/webpack-sieu-toc-2-cau-hinh-typescript-alias-hash-bundle/&quot;&gt;Ref&lt;/a&gt;&lt;/p&gt;
@@ -2097,7 +2097,7 @@ Edit script in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&g
 
 &lt;h1 id=&quot;reference&quot;&gt;Reference&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/tienduy-nguyen/webpack/tree/master/webpack-basic&quot;&gt;Source code GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tduyng/webpack/tree/master/webpack-basic&quot;&gt;Source code GitHub&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://xdevclass.com/webpack-sieu-toc-cau-hinh-dev-server-babel-loader-style-loader-file-loader/&quot;&gt;Ref&lt;/a&gt;&lt;/p&gt;</content>
 

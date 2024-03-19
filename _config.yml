@@ -40,7 +40,7 @@ subscribers: True # you need to connect an external service for this to work,
 subscribe: True
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-linkedin: tienduy-nguyen
+linkedin: tduyng
 twitter: tienduy_nguyen # replace by your username
 facebook: # replace by your username
 
@@ -56,9 +56,9 @@ gitalk:
   isUsed: True
   clientID: 47d9028ad954579e29a1 # GitHub Application Client ID
   clientSecret: 0fc3a929bc1c7d9db3678dd52952f1342c01cf2c # GitHub Application Client Secret,
-  repo: tienduy-nguyen # Storage gittalk's repository
-  owner: tienduy-nguyen # GitHub repo owner,
-  admin: tienduy-nguyen # GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
+  repo: tduyng # Storage gittalk's repository
+  owner: tduyng # GitHub repo owner,
+  admin: tduyng # GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
 
 # Google Analytics
 google_analytics: UA-184748174-1 # replace with your GA tracking identifier
@@ -145,14 +145,14 @@ compress_html:
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
 safe: False
-username: tienduy-nguyen
+username: tduyng
 repo: blog
 branch: master
 relative_source: ../blog/
 # destination: ../gh-pages/   #for deploy with github-pages
 destination: _site/ #for deploy with netlify
-production_url: https://tienduy-nguyen.github.io/blog/
-source_url: https://github.com/tienduy-nguyen/blog/
+production_url: https://tduyng.github.io/blog/
+source_url: https://github.com/tduyng/blog/
 
 exclude:
   - assets/css

@@ -330,6 +330,6 @@ Yeezze! That's it. Practice yourselves to understand better the configuration of
 
 # Reference
 
-[Source code GitHub](https://github.com/tienduy-nguyen/webpack/tree/master/webpack-basic)
+[Source code GitHub](https://github.com/tduyng/webpack/tree/master/webpack-basic)
 
 [Ref](https://xdevclass.com/webpack-sieu-toc-cau-hinh-dev-server-babel-loader-style-loader-file-loader/)

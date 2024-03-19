@@ -2,11 +2,11 @@ tienduy:
   username: tienduy
   name: TienDuy
   location: Paris, France
-  url_full: http://tienduy-nguyen.github.io/blog/
-  url: tienduy-nguyen.github.io
+  url_full: http://tduyng.github.io/blog/
+  url: tduyng.github.io
   bio: Tien Duy is a full-stack web developer. He loves coding, solving problems and learning from others.
   picture: assets/images/blog-icon-200.png
   facebook: False
-  linkedin: tienduy-nguyen
+  linkedin: tduyng
   twitter: tienduy_nguyen
   cover: assets/images/adev42-cover.jpeg

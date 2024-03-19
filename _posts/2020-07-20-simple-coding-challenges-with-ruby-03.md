@@ -12,7 +12,7 @@ Doing coding challenges is an excellent way to imporve your programming language
 
 ## Kata challenges
 
-My level on codewars now is 5kyu. You can check my [Codewars](https://www.codewars.com/users/tienduy-nguyen). So, today when I take the new challenges with the option rank up, Codewars gave me only the 5kyu challenges.
+My level on codewars now is 5kyu. You can check my [Codewars](https://www.codewars.com/users/tduyng). So, today when I take the new challenges with the option rank up, Codewars gave me only the 5kyu challenges.
 
 Let's take a look together!
 
@@ -284,9 +284,9 @@ With these solutions, I can learn more about a method ".succ" and ".next" and mo
 
 ## Reference
 
-You can find the code in my github repository <i class="fab fa-github"></i> [Codewars Ruby](https://github.com/tienduy-nguyen/coding-challenge/tree/master/codewars-ruby)
+You can find the code in my github repository <i class="fab fa-github"></i> [Codewars Ruby](https://github.com/tduyng/coding-challenge/tree/master/codewars-ruby)
 
-You can also check out my another repository that contains all the programs day by day I worked with The Hacking project <i class="fab fa-github"></i> [thehackingproject](https://github.com/tienduy-nguyen/thehackingproject)
+You can also check out my another repository that contains all the programs day by day I worked with The Hacking project <i class="fab fa-github"></i> [thehackingproject](https://github.com/tduyng/thehackingproject)
 
 The Hacking Project website [thehackingproject.org](https://www.thehackingproject.org/)
 

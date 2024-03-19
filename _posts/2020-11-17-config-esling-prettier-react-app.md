@@ -220,10 +220,10 @@ Here, I use [create-react-app](https://github.com/facebook/create-react-app), so
 
 So that's it. Hope you learned something new. Eslint is endlessly customizable and you should explore more to find some plugins and configs that best benefit your project.
 
-All the code snippets can be found here on [my GitHub](https://github.com/tienduy-nguyen/webpack-react-typescript-template)
+All the code snippets can be found here on [my GitHub](https://github.com/tduyng/webpack-react-typescript-template)
 
 ## Reference
 
-- [Code GitHub](https://github.com/tienduy-nguyen/webpack-react-typescript-template)
+- [Code GitHub](https://github.com/tduyng/webpack-react-typescript-template)
 - [Setup eslint prettier from scratch on dev.to](https://dev.to/onygami/eslint-and-prettier-for-react-apps-bonus-next-js-and-typescript-3e46)
 - [Other Ref](https://xdevclass.com/cai-dat-moi-truong-code-react-toi-uu-vs-code-prettier-eslint/)

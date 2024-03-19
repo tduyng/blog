@@ -150,9 +150,9 @@ This article is very short but I need to finish this article here. I don't have 
 
 ## Reference
 
-You can find the code in my github repository <i class="fab fa-github"></i> [Codewars Ruby](https://github.com/tienduy-nguyen/coding-challenge/tree/master/codewars-ruby)
+You can find the code in my github repository <i class="fab fa-github"></i> [Codewars Ruby](https://github.com/tduyng/coding-challenge/tree/master/codewars-ruby)
 
-You can also check out my another repository that contains all the programs day by day I worked with The Hacking project <i class="fab fa-github"></i> [thehackingproject](https://github.com/tienduy-nguyen/thehackingproject)
+You can also check out my another repository that contains all the programs day by day I worked with The Hacking project <i class="fab fa-github"></i> [thehackingproject](https://github.com/tduyng/thehackingproject)
 
 The Hacking Project website [thehackingproject.org](https://www.thehackingproject.org/)
 

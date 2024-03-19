@@ -1,6 +1,6 @@
 # My blog using Jekyll.
 
-Link to my blog [tienduy-nguyen.github.io](https://tienduy-nguyen.github.io)
+Link to my blog [tduyng.github.io](https://tduyng.github.io)
 
 Build travis failed ...
 ## Reference

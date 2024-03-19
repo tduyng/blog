@@ -113,11 +113,11 @@ You may probably no need to do the same way because there are many different way
   
 
   With this way, we can define easily the visibility of repos: public or private and we can initialize with the template of `.gitingore` and `LICENSE`.
-  I named this repo [demo-jekyll-mmtakes](https://github.com/tienduy-nguyen/demo-jekyll-mmistakes)
+  I named this repo [demo-jekyll-mmtakes](https://github.com/tduyng/demo-jekyll-mmistakes)
 
   **If you want to this website is the origine Github pages**. It means the domain name of your website is *github-user-name.github.io*. You will need to create a repository with this name: "github-user-name.github.io".
 
-  For example my Github pages: **tienduy-nguyen.github.io**, so I need to create a repository named: "tienduy-nguyen.github.io".
+  For example my Github pages: **tduyng.github.io**, so I need to create a repository named: "tduyng.github.io".
 
   You can check to know how to create a Github pages on the official document of github: [https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)
 
@@ -179,9 +179,9 @@ For example, I modified the `config.yml` file for my blog:
     subtitle: # site tagline that appears below site title in masthead
     name: 'Tien Duy'
     description: 'Software - Fullstack Web developper'
-    url: &url 'https://tienduy-nguyen.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+    url: &url 'https://tduyng.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
     baseurl: # the subpath of your site, e.g. "/blog"
-    repository: 'tienduy-nguyen/demo-jekyll-mmistakes' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+    repository: 'tduyng/demo-jekyll-mmistakes' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
     teaser: '/assets/images/page-cover.png' # path of fallback teaser image, e.g. "/assets/images/500x300.png"
     logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
     masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -217,16 +217,16 @@ For example, I modified the `config.yml` file for my blog:
       links:
         - label: 'Website'
           icon: 'fas fa-fw fa-link'
-          url: 'https://tienduy-nguyen.github.io'
+          url: 'https://tduyng.github.io'
         - label: 'Twitter'
           icon: 'fab fa-fw fa-twitter-square'
           url: &twitterUrl 'https://twitter.com/tienduy_nguyen'
         - label: 'LinkedIn'
           icon: 'fab fa-fw fa-linkedin'
-          url: &linkedinUrl 'https://linkedin.com/in/tienduy-nguyen'
+          url: &linkedinUrl 'https://linkedin.com/in/tduyng'
         - label: 'GitHub'
           icon: 'fab fa-fw fa-github'
-          url: &githubUrl 'https://github.com/tienduy-nguyen'
+          url: &githubUrl 'https://github.com/tduyng'
         # - label: 'Facebook'
         #   icon: 'fab fa-fw fa-facebook-square'
         #   url: &fbUrl 'https://www.facebook.com/'
@@ -508,7 +508,7 @@ So that is a demo I want to show you. Now you can start to write your first arti
 ## Reference
 - Demo online [https://adev42.com/demo-jekyll-mmistakes/](https://adev42.com/demo-jekyll-mmistakes/)
 - My article on medium [Build your personal website without spending any money](https://medium.com/@tienduy/build-your-personal-website-without-spending-any-money-30e6b2264e08)
-- My repo demo Github [demo-jekyll-mmistakes](https://github.com/tienduy-nguyen/demo-jekyll-mmistakes)
+- My repo demo Github [demo-jekyll-mmistakes](https://github.com/tduyng/demo-jekyll-mmistakes)
 - Jekyll home page of Jekyll [https://jekyllrb.com/](https://jekyllrb.com/)
 - Documentation of minimal mistake theme [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/)
 - Interesting blog about jekyll [https://blog.webjeda.com/](https://blog.webjeda.com/)
